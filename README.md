@@ -1,1 +1,1 @@
-# EasyEditor
+# Editor
